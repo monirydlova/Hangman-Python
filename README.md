@@ -1,6 +1,6 @@
 # Hangman – Oběšenec
 
-Jednoduchá konzolová hra Oběšenec (Hangman) vytvořená v jazyce Python v rámci kurzu **Konečně Python**.
+Jednoduchá konzolová hra Oběšenec (Hangman) vytvořená v jazyce Python.
 
 ## O projektu
 
