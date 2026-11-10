@@ -1,4 +1,4 @@
-input_words = "2.modul-2.cast\\08_hangman\\words.txt"
+input_words = "words.txt"
 from random import choice
 from hangman_pictures import HANGMAN_PICS
 
