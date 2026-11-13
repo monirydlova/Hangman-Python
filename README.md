@@ -16,7 +16,7 @@ Projekt vznikl v rámci studia programování v kurzu [Konečně Python](https:/
 
 ## Vývoj projektu
 
-Tento repozitář obsahuje základní verzi hry. Do budoucna plánuji její další rozšíření a vylepšení.
+Tento repozitář obsahuje finální verzi hry. Hru jsem rozdělila do menších funkcí a použila list comprehension a ternární operátor, kde to bylo vhodné pro zlepšení čitelnosti kódu. Přidala jsem také kontrolu vstupu a ošetřila případ s chybějícím nebo prázdným souborem se slovy. 
 
 ## Jak se hra hraje
 
